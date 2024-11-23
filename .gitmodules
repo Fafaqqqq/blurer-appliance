@@ -1,0 +1,6 @@
+[submodule "Blurer"]
+	path = Blurer
+	url = git@github.com:Fafaqqqq/Blurer.git
+[submodule "Downloader"]
+	path = Downloader
+	url = git@github.com:Out-Law/Blurer.git
