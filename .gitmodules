@@ -4,3 +4,6 @@
 [submodule "Downloader"]
 	path = Downloader
 	url = git@github.com:Out-Law/Blurer.git
+[submodule "BlurerFront"]
+	path = BlurerFront
+	url = git@github.com:Out-Law/BlurerFront.git
